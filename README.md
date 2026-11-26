@@ -35,10 +35,6 @@
 
 ---
 
-
-
----
-
 ## 这是什么
 
 设计课堂高光实操（wow 环节）：选型公式=学员本职真实任务+零基础可现场完成+成品惊艳；素材/提示词/账号课前预登。不适用纯理论课、设备账号未就绪现场。触发：高光时刻怎么设计/wow环节/公开课演示什么。与获得感区分：本卡=单个环节，获得感=全场机制。 metadata: cangjie.generated-by: cangjie-tools v2.5.0 cangjie.capability-id: cap.ai-training-profit-model.highlight-moment cangjie.capability-revision: 1 cangjie.bundle-id: bundle.ai-training-profit-model cangjie.source-title: 我做了50场AI企业培训终于搞清这门生意的赚钱模型（飞书文档 2026-05-18 修改版）
@@ -68,6 +64,17 @@ MIT License
 添加时请备注：GitHub-highlight-moment
 
 > 不提供免费技术支持。问题请走 Issue。
+
+---
+
+## 如果要商用
+
+代码是 MIT，商用不需要问我，改、卖、二次开发都行。
+
+不过商用场景通常比自用麻烦：部署环境、数据合规、出了问题谁兜底。真要落到业务里，
+可以先跟我说一声，这些坑我大概率踩过。
+
+微信 **enhaopang**，备注 `GitHub-仓库名`。
 
 ---
 
